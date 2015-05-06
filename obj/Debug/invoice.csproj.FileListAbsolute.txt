@@ -1,0 +1,4 @@
+c:\users\uma\documents\visual studio 2010\Projects\invoice\invoice\bin\invoice.dll
+c:\users\uma\documents\visual studio 2010\Projects\invoice\invoice\bin\invoice.pdb
+c:\users\uma\documents\visual studio 2010\Projects\invoice\invoice\obj\Debug\invoice.dll
+c:\users\uma\documents\visual studio 2010\Projects\invoice\invoice\obj\Debug\invoice.pdb
